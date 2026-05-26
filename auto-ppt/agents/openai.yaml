@@ -1,0 +1,7 @@
+interface:
+  display_name: "Auto-PPT"
+  short_description: "Build slide decks from source content"
+  default_prompt: "Use $auto-ppt to turn my document into a presentation deck with speaker notes."
+
+policy:
+  allow_implicit_invocation: true
